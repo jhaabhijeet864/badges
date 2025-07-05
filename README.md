@@ -33,11 +33,12 @@ To get this page up and running for your own profile, follow these simple steps:
 
 1.  **Clone or Fork this repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/jhaabhijeet864/badges
+
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd badges
     ```
 3.  **Customize your badges:**
     -   Open `index.html`.
