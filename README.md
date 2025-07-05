@@ -6,7 +6,7 @@
 
 A clean, responsive, and developer-friendly webpage to showcase all your GitHub achievements and badges. The project uses a modern, dark theme inspired by GitHub's own UI.
 
-![Snake animation](https://raw.githubusercontent.com/your-username/your-repo-name/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jhaabhijeet864/badges/output/snake.svg)
 
 ---
 
