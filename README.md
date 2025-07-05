@@ -1,8 +1,8 @@
 # My Github Badges and Achievements <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/stargazers)
-[![Forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/network/members)
+[![Stars](https://img.shields.io/github/stars/jhaabhijeet864/badges?style=social)](https://github.com/jhaabhijeet864/badges/stargazers)
+[![Forks](https://img.shields.io/github/forks/jhaabhijeet864/badges?style=social)](https://github.com/jhaabhijeet864/badges/network/members)
 
 A clean, responsive, and developer-friendly webpage to showcase all your GitHub achievements and badges. The project uses a modern, dark theme inspired by GitHub's own UI.
 
@@ -56,4 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [Abhijeet Jha](https://github.com/your-username)
+Made with ❤️ by [Abhijeet Jha](https://github.com/jhaabhijeet864)
