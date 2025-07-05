@@ -21,13 +21,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: jhaabhijeet864
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg
-            dist/ocean.gif
+          outputs: dist/snake.svg
 
       - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
