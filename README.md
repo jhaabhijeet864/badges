@@ -7,9 +7,7 @@
 A clean, responsive, and developer-friendly webpage to showcase all your GitHub achievements and badges. The project uses a modern, dark theme inspired by GitHub's own UI.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/badges/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhaabhijeet864/badges/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jhaabhijeet864/badges/output/ocean.gif" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jhaabhijeet864/badges/output/snake.svg" />
 </picture>
 
 ---
